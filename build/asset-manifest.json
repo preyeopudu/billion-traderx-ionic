@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d080f7af.chunk.css",
+    "main.js": "./static/js/main.81dbb4c4.chunk.js",
+    "main.js.map": "./static/js/main.81dbb4c4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.59d44ef5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.59d44ef5.js.map",
+    "static/js/2.a9f5d9ff.chunk.js": "./static/js/2.a9f5d9ff.chunk.js",
+    "static/js/2.a9f5d9ff.chunk.js.map": "./static/js/2.a9f5d9ff.chunk.js.map",
+    "static/js/3.da56d363.chunk.js": "./static/js/3.da56d363.chunk.js",
+    "static/js/3.da56d363.chunk.js.map": "./static/js/3.da56d363.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d080f7af.chunk.css.map": "./static/css/main.d080f7af.chunk.css.map",
+    "static/js/2.a9f5d9ff.chunk.js.LICENSE.txt": "./static/js/2.a9f5d9ff.chunk.js.LICENSE.txt",
+    "static/media/beryl.88af34ad.jpg": "./static/media/beryl.88af34ad.jpg",
+    "static/media/bitcore.b8bacf96.svg": "./static/media/bitcore.b8bacf96.svg",
+    "static/media/bitcore.df57fd01.png": "./static/media/bitcore.df57fd01.png",
+    "static/media/emerald.a3a66d9d.jpg": "./static/media/emerald.a3a66d9d.jpg",
+    "static/media/money.069921ca.jpg": "./static/media/money.069921ca.jpg",
+    "static/media/onyx.f3dc8148.jfif": "./static/media/onyx.f3dc8148.jfif",
+    "static/media/ruby.55cf066c.jpg": "./static/media/ruby.55cf066c.jpg",
+    "static/media/sapphire.252b1cfc.jpg": "./static/media/sapphire.252b1cfc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d44ef5.js",
+    "static/js/2.a9f5d9ff.chunk.js",
+    "static/css/main.d080f7af.chunk.css",
+    "static/js/main.81dbb4c4.chunk.js"
+  ]
+}

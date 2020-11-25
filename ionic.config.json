@@ -1,0 +1,7 @@
+{
+    "name": "Billion Traderx",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

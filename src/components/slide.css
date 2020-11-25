@@ -1,0 +1,8 @@
+.trading{
+   
+    background: linear-gradient(to bottom, rgba(1, 2, 10, 0.82), rgba(27, 1, 22, 0.83)), url(slides/trading.jpeg) no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

@@ -1,0 +1,56 @@
+.wrapper{
+    width: 400px;
+    height: 420px;
+    color: white;
+    top:50%;
+    left: 50%;
+    padding: 60px 30px;
+    position: absolute;
+    transform: translate(-50%,-55%);
+}
+
+h1.lead{
+    font-size: 2.5rem;
+}
+
+
+.back{
+    text-align: left;
+    font-size: 1.8rem;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+.App{
+    overflow: hidden;
+}
+
+h1{
+    margin:0;
+    padding:0;
+    font-weight: bold;
+    font-size:40px;
+    margin-bottom: 8%;
+}
+
+.wrapper input{
+    margin-bottom: 30px;
+    width:80%;
+}
+
+.wrapper input[type=password],.wrapper input[type=email]{
+    border: none;
+    border-bottom: 1px solid #ddd;
+    background:transparent;
+    outline:30px;
+    height: 30px;
+    font-size:16px;
+    opacity: 1;
+    color: #ccc;
+    
+    
+}
+
+.wrapper input[type=submit]{
+    margin-top: 10px;
+}

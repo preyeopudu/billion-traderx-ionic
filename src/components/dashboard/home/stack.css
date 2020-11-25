@@ -1,0 +1,27 @@
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  
+   
+  }
+  .scrolling-wrapper::-webkit-scrollbar {
+    display: none;
+  }
+
+  .card{
+      display: inline-flex;
+      margin-left:4px;
+      width: 70%;
+      height: 150px;
+
+  }
+
+
+.gem{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}
